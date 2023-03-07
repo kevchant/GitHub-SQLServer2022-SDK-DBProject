@@ -1,4 +1,4 @@
-Example of a SQL Server Database Project that performs CI/CD for a SQL Server 2022 Database using GitHub Actions. 
+Example of a SQL Server Database Project that performs CI/CD for a SQL Server 2022 Database using GitHub Actions. Based on a blog post I wrote called '[CI/CD for SQL Server 2022 using GitHub Actions](https://www.kevinrchant.com/2023/03/07/ci-cd-for-sql-server-2022-using-github-actions/)'.
 
 A brief overview is below. 
 
