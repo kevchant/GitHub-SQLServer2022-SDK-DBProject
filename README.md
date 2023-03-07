@@ -8,7 +8,7 @@ In order to use it with GitHub Actions in your own account you can either import
 
 You MUST have two secrets specified for this to work:
 
-SQLDB_SERVER - Name of your SQL Server instance.
-SQLDB_CONNECTION_STRING - Connection string to your Azure SQL Database.
+* SQLDB_SERVER - Name of your SQL Server instance.
+* SQLDB_CONNECTION_STRING - Connection string to your Azure SQL Database.
 
 This repository is provided "as is" based on the MIT license (https://opensource.org/licenses/MIT). Basically, I am not responsible for your use of it.
